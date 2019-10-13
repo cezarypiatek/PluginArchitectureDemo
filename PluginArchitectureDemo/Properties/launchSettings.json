@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PluginArchitectureDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Repositories\\PluginArchitectureDemo\\PluginArchitectureDemo.SamplePlugins\\bin\\Debug\\netstandard2.0\\PluginArchitectureDemo.SamplePlugins.dll"
+    }
+  }
+}
